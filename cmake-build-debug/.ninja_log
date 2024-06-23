@@ -1,0 +1,19 @@
+# ninja log v6
+45	1924	7408625316379304	CMakeFiles/ManagerProgramm.dir/src/Manager.cpp.obj	8ea6d9e591c57296
+21	1932	7408625316147672	CMakeFiles/ManagerProgramm.dir/src/Person.cpp.obj	4b88a219ccd9ad5f
+30	1933	7408625316238136	CMakeFiles/ManagerProgramm.dir/src/Employee.cpp.obj	7b46000de254e309
+8	1941	7408625316012043	CMakeFiles/ManagerProgramm.dir/src/main.cpp.obj	1e9699ec72175962
+1942	2539	7408625335350283	ManagerProgramm.exe	92d3787d078591c6
+53	1377	7408636748006815	CMakeFiles/ManagerProgramm.dir/src/Manager.cpp.obj	8ea6d9e591c57296
+25	1386	7408636747727106	CMakeFiles/ManagerProgramm.dir/src/Employee.cpp.obj	7b46000de254e309
+14	1403	7408636747616420	CMakeFiles/ManagerProgramm.dir/src/main.cpp.obj	1e9699ec72175962
+1403	1851	7408636761508314	ManagerProgramm.exe	92d3787d078591c6
+31	1255	7408638569068468	CMakeFiles/ManagerProgramm.dir/src/main.cpp.obj	1e9699ec72175962
+1256	1566	7408638581317231	ManagerProgramm.exe	92d3787d078591c6
+27	1125	7408639089487523	CMakeFiles/ManagerProgramm.dir/src/main.cpp.obj	1e9699ec72175962
+1126	1437	7408639100486927	ManagerProgramm.exe	92d3787d078591c6
+163	1432	7408642432342238	CMakeFiles/ManagerProgramm.dir/src/Person.cpp.obj	4b88a219ccd9ad5f
+171	1490	7408642432417502	CMakeFiles/ManagerProgramm.dir/src/Employee.cpp.obj	7b46000de254e309
+181	1510	7408642432523895	CMakeFiles/ManagerProgramm.dir/src/Manager.cpp.obj	8ea6d9e591c57296
+48	1682	7408642431186996	CMakeFiles/ManagerProgramm.dir/src/main.cpp.obj	1e9699ec72175962
+1682	1919	7408642447522461	ManagerProgramm.exe	92d3787d078591c6
